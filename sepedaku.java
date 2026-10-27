@@ -1,4 +1,4 @@
-public class sepedaku {
+class sepedaku {
     String warna = "hijau";
     int jumblah = 20;
 }
